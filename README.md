@@ -36,10 +36,12 @@ Step 7: The Note says : The key to everything is the truth, no matter how wild i
 	You must go the length to find it. This is an indication that the max_length of the input
 	field is fixed and must be manipulated in the browser dev tool to enter a SQL Injection 
 	longer than the fixed input length.
+	![Screenshot (35)](https://user-images.githubusercontent.com/55906428/228715312-d0cacdcd-ab6e-458e-a564-d7c09c66d996.png)
 
 Step 8: Enter a SQL Injection Query to retrieve the Database name.
 		>> "or"1"="1"UNION SELECT 1,2,3,4,5,database()#
 		
-![Screenshot (35)](https://user-images.githubusercontent.com/55906428/228715312-d0cacdcd-ab6e-458e-a564-d7c09c66d996.png)
 
+
+![Screenshot (36)](https://user-images.githubusercontent.com/55906428/228715545-f8abc05a-9adf-4241-be39-2395b844eb15.png)
 
