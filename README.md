@@ -1,11 +1,8 @@
 # CTF-Write-Up-2
 CTF Codepath capture_Bolivia - 4.10 - Mimics
-CTF-WriteUp-02
 
-CTF Codepath capture_Bolivia - 4.10 - Mimics
-
-note: The key to everything is the truth, no matter how wild it may be. 
-You must go the length to find it. 
+##note: The key to everything is the truth, no matter how wild it may be. 
+	##You must go the length to find it. 
 
 Step 1: I gathered a list of SQL Injections queries from an online search, combined the 
 	queires and saved the list in a  .txt file. 
